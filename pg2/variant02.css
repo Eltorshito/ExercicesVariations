@@ -63,6 +63,17 @@ h3{
     margin-right: 10%;
 }
 
-button{}
-.Btn1{}
-.Intro1{}
+button{
+    background-color: #864710;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 15px;
+}
+
